@@ -6,6 +6,8 @@ Team name : Alligator
 
 Contain : JAR File - graph.jar
 
+Doc : http://johanbrunet.github.io/GraphLibrary/
+
 Date : 29/03/2016
 
 Module : Concepts and Practice of Object Oriented Programming
